@@ -6,7 +6,7 @@ description: Below is our list (no particular order).
 
 ## Binance
 
-**Rebate: 40% > SIGN UP NOW**
+**Rebate: 40% >** [**SIGN UP NOW**](https://www.bmwweb.biz/join?ref=REBATEFUN)
 
 ## Bybit
 
@@ -14,7 +14,7 @@ description: Below is our list (no particular order).
 
 ## OKX
 
-**Rebate: 40% > SIGN UP NOW**
+**Rebate: 40% >** [**SIGN UP NOW**](https://okx.com/join/RFGROUPS)
 
 ## Bitget
 
