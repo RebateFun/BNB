@@ -24,7 +24,7 @@ cashback, and rewards on trading fees, gas fees, and DApp expenses.\
 ## WEB3 Project Integrated
 
 1. Galxe: COMING SOON
-2. TaskOn: COMING SOON
+2. TaskOn: [https://taskon.xyz/RebateFun](https://taskon.xyz/RebateFun)
 
 ## Support: support@rebate.fun
 
