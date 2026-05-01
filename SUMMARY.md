@@ -20,4 +20,5 @@
 * [VVIP Level Program](vvip-level-program/README.md)
   * [Tiers](vvip-level-program/tiers.md)
   * [Exclusive Benefits](vvip-level-program/exclusive-benefits.md)
+* [Smart Contract](smart-contract.md)
 * [Brand Kit](brand-kit.md)
