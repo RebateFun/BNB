@@ -1,7 +1,9 @@
 # FAQs
 
-1. **What is REBATE.FUN？**\
-   Rebate.fun, the first Web3 ecosystem designed to return real value to users — **offering rebates, cashback, and rewards on trading fees, gas fees, and DApp expenses.** <br>
+1.  **What is REBATE.FUN？**\
+    **Rebate.fun is an AI-powered Web3 trading traffic aggregation platform, designed to help users maximize their earnings across trading and on-chain activities.**<br>
+
+    We integrate rebates, cashback, and reward mechanisms across trading fees, gas fees, and DApp usage — while leveraging AI-driven insights to help users optimize decisions, reduce costs, and increase net profit.<br>
 2. **How can I get benefits on REBATE.FUN?**\
    Accessing rewards on Rebate.fun begins with minting the VVIP Membership (SBT) on our DApp.   \
    Once your membership is minted, you may choose and activate the benefits offered on the platform.\
