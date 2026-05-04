@@ -6,10 +6,11 @@ description: CASHBACK EVERTHING WE CAN
 
 ## What is Rebate.Fun?
 
-Rebate.fun is the first Web3 ecosystem designed to return real value to users — offering rebates,\
-cashback, and rewards on trading fees, gas fees, and DApp expenses.\
-\
-**Your Web3 activities now work for you.**
+**Rebate.fun is an AI-powered Web3 trading traffic aggregation platform, designed to help users maximize their earnings across trading and on-chain activities.**
+
+We integrate rebates, cashback, and reward mechanisms across trading fees, gas fees, and DApp usage — while leveraging AI-driven insights to help users optimize decisions, reduce costs, and increase net profit.
+
+**Turn costs into profit. Make every action work for you.**
 
 ### Official Website
 
