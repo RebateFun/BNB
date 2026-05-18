@@ -9,6 +9,7 @@
     * [CEXs VIP](onboarding/our-cexs-partnerships/cexs-vip.md)
   * [Our DApp Partnerships](onboarding/our-dapp-partnerships.md)
   * [Our Card Partnerships](onboarding/our-card-partnerships.md)
+  * [Our Bank Partnerships](onboarding/our-bank-partnerships.md)
   * [Our Broker Partnerships](onboarding/our-broker-partnerships.md)
   * [Community Partnerships](onboarding/community-partnerships.md)
   * [Ecosystem Partnerships](onboarding/ecosystem-partnerships.md)
