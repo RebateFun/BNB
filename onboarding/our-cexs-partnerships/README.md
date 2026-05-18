@@ -20,6 +20,10 @@ description: Below is our list (no particular order).
 
 **Rebate: 50% >** [**SIGN UP NOW**](https://partner.hdmune.cn/bg/rebatefun)
 
+## BitMEX
+
+**Rebate: 45% >** [**SIGN UP NOW**](https://www.bitmex.com/app/register/rebatefun)
+
 ## Backpack
 
 **Cashback: 35% >** [**SIGN UP NOW**](https://backpack.exchange/join/rebatefun)
