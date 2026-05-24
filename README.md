@@ -20,7 +20,7 @@ We integrate rebates, cashback, and reward mechanisms across trading fees, gas f
 
 1. X: [https://x.com/rebate.fun](https://x.com/rebate.fun)
 2. Discord Invite: [https://discord.gg/FSNsBc2wdG](https://discord.gg/FSNsBc2wdG)
-3. Telegram: [https://t.me/rebatefunofficial](https://t.me/rebatefunofficial) \[LATEST] /  [https://t.me/rebatefun](https://t.me/rebatefun) \[OLD]
+3. Telegram: [https://t.me/rebatefun](https://t.me/rebatefunofficial)
 
 ## WEB3 Project Integrated
 
