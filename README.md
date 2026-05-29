@@ -24,7 +24,7 @@ We integrate rebates, cashback, and reward mechanisms across trading fees, gas f
 
 ## WEB3 Project Integrated
 
-1. Galxe: COMING SOON
+1. Galxe: [https://app.galxe.com/quest/RebateFun](https://app.galxe.com/quest/RebateFun)
 2. TaskOn: [https://taskon.xyz/RebateFun](https://taskon.xyz/RebateFun)
 
 ## Support: support@rebate.fun
